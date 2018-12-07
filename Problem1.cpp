@@ -2,6 +2,8 @@
 #include <fstream>
 using namespace std;
 
+// addding a comment
+
 int arraySize = 100;
 
 void printArray(int arrayToPrint[], int arraySize)
